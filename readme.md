@@ -1,5 +1,5 @@
 # Real-Time Eye Color Detection
-![وصف الصورة](test.png)
+(test.PNG)
 ## Description
 This project detects the color of a user's eyes in real-time using computer vision and machine learning techniques. It uses Mediapipe for facial landmark detection and K-Means clustering for color analysis.
 
